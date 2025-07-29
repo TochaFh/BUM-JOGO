@@ -5,9 +5,11 @@ Jogo BUM! de cartas
 
 # Como jogar
 
-No BUM! cada jogador tem o objetivo de zerar o número de cartas em sua mão, ou melhor, em seu domínio*, onde as cartas ficam viradas com a face para baixo.
+O BUM! é jogado com um baralho normal de 52 cartas (sem os coringas).Neste jogo, cada jogador tem o objetivo de zerar o número de cartas em sua mão, ou melhor, em seu domínio*, onde as cartas ficam viradas com a face para baixo.
 
-No começo do jogo, cada jogador recebe 4 cartas, distribuídas de maneira aleatória, viradas para baixo, das quais podem escolher 2 para espiar*. As cartas restantes ficam no monte* no meio da mesa.
+## Início do Jogo
+
+No começo do jogo, cada jogador recebe 4 cartas - distribuídas de maneira aleatória - viradas para baixo, das quais podem escolher 2 para espiar*. As cartas restantes ficam no monte* no meio da mesa.
 
 O primeiro turno é do jogador que venceu a última partida, ele também é responsável por embaralhar as cartas e distribuí-las. Caso seja a primeira partida, fica a critério dos jogadores decidir quem dará início ao jogo.
 
@@ -50,6 +52,11 @@ K VERMELHO. Todos os jogadores, exceto o que descartou o K VERMELHO e um oponent
 
 A. O jogador embaralha as cartas do domínio de um oponente a sua escolha. Se o oponente escolhido só tiver uma carta em seu domínio, ele deve colocar esta carta no fundo do monte, sem revelar, e comprar a primeira carta do monte (sem espiá-la).
 
-### Casos especiais:
+## Casos especiais:
 - No caso de Qs jogados em seguida no mesmo BUM!, a ação de um Q não pode desfazer exatamente a troca feita na ação imdiatamente anterior a ela.
 - Regra Master: Se um jogador conseguir que seu domínio contenha exatamente um Royal Flush - a sequência das 5 cartas ***10, J, Q, K, A*** todas com o mesmo naipe - em qualquer momento do jogo, ele ganha o jogo instantaneamente. Obs: o jogador pode interromper o jogo e mostrar seu grande feito independente da situação do jogo.
+
+# Sobre a origem do jogo
+O jogo BUM! foi desenvolvido por um pequeno grupo de amigos estudantes de Engenharia na Unicamp.
+As primeiras versões deste jogo começaram a ser testadas em outubro de 2024 e, desde então, foi evoluindo até o conjunto de regras descrito neste documento.
+Este manual do jogo foi escrito por Rafael Hoyos e Thiago Nascimento.
